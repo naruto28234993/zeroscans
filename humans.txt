@@ -1,0 +1,13 @@
+/* SITE */
+Last update: 12/20/2022
+Standards: HTML5, CSS3, Javascript
+Components: VueJs, Laravel
+Language: English
+Doctype: HTML5
+
+/* DEVELOPMENT */
+Team: Swordflake
+Backend: Sylphrena
+Frontend: Lynx
+Website: https://swordflake.com
+Contact: elleston0218@gmail.com, esmatezgi@gmail.com
